@@ -1,6 +1,6 @@
 # Project Name: Quotes Classification using NLP
 
-## Objective : Extracting quotes from website of diffrent categories using Web Scrapping , and performing text Pre-processing and performing classification modelling .
+## Objective : Extracting quotes from website of different categories using Web Scrapping , and performing text Pre-processing and performing classification modelling .
 
 ### Topics covered:
  * Web Scrapping
